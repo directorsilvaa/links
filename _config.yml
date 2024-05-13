@@ -1,10 +1,10 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: AVENIDA
+name: AVENIDA !
 
 # YOUR BRAND/PERSONAL TAGLINE
 tagline: Há mais de 13 anos realizando sonhos ! Conquiste aqui sua CNH 
 # YOUR/BRAND IMAGE URL
-Image_URL: 
+Image_URL: /workspaces/links/assets/images/icons.jpg
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://picsum.photos/1080?nocache=
@@ -14,6 +14,13 @@ links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
+    # TWITTER
+  - Name: Whatsapp - JOÃO DURVAL
+    URL: https://wa.me/message/3HESWV3EML7FF1
+    Username: 
+    Color: '#00FF00'
+    Icon-Class: fa fa-whatsapp
+
     # FACEBOOK
   - Name: Facebook
     URL: https://www.facebook.com
@@ -29,34 +36,12 @@ links:
     Icon-Class: fab fa-instagram
 
     # TWITTER
-  - Name: Whatsapp
+  - Name: Whatsapp - SIM 
     URL: https://wa.me/message/
     Username: IME2SXQQTUKHM1
     Color: '#00FF00'
     Icon-Class: fa fa-whatsapp
-
-     # THREADS.NET
-  - Name: Threads
-    URL: https://threads.net/
-    Username: harsh98trivedi
-    Color: '#000000'
-    Icon-Class: fa-brands fa-threads
-    Text_Color: '#ffffff'
-
-    # CLUBHOUSE
-  - Name: Clubhouse
-    URL: https://www.clubhouse.com
-    Username: '@harsh98trivedi'
-    Color: '#f1c40f'
-    Icon-Class: fas fa-hand-paper -mt-0.5
-    
-    # LINKEDIN
-  - Name: LinkedIn
-    URL: https://www.linkedin.com/in
-    Username: harsh98trivedi
-    Color: '#2867B2'
-    Icon-Class: fab fa-linkedin-in
-
+  
     # YOUTUBE
   - Name: YouTube
     URL: https://www.youtube.com/channel
