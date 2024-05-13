@@ -43,11 +43,11 @@ links:
     Icon-Class: fa fa-whatsapp
   
     # YOUTUBE
-  - Name: YouTube
-    URL: https://www.youtube.com/channel
-    Username: UCS3zvA_2r1iGT7MB3NVCGAw
-    Color: '#ff0000'
-    Icon-Class: fab fa-youtube
+ # - Name: YouTube
+   # URL: https://www.youtube.com/channel
+  #  Username: UCS3zvA_2r1iGT7MB3NVCGAw
+   # Color: '#ff0000'
+   # Icon-Class: fab fa-youtube
 
   
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
