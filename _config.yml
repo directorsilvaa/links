@@ -1,5 +1,5 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: CFC AVENIDA
+name: 
 
 # YOUR BRAND/PERSONAL TAGLINE
 tagline: Há mais de 13 anos realizando sonhos!
@@ -14,19 +14,19 @@ links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
-    # TWITTER
-  - Name: Whatsapp - JOÃO DURVAL
-    URL: https://wa.me/message/3HESWV3EML7FF1
-    Username: 
-    Color: '#00FF00'
-    Icon-Class: fa fa-whatsapp
-
     # FACEBOOK
   - Name: Facebook
     URL: https://www.facebook.com
     Username: cfcavenidajd
     Color: '#3b5998'
     Icon-Class: fab fa-facebook
+
+     # TWITTER
+  - Name: JOÃO DURVAL
+    URL: https://wa.me/557536167104?text=Ol%C3%A1%2C+Vim+atrav%C3%A9s+do+site.+Poderia+me+ajudar%3F
+    Username: 
+    Color: '#00FF00'
+    Icon-Class: fa fa-whatsapp
 
     # INSTAGRAM
   - Name: Instagram
@@ -36,9 +36,9 @@ links:
     Icon-Class: fab fa-instagram
 
     # TWITTER
-  - Name: Whatsapp - SIM 
-    URL: https://wa.me/message/
-    Username: IME2SXQQTUKHM1
+  - Name: SIM 
+    URL: https://wa.me/message/IME2SXQQTUKHM1
+    Username: 
     Color: '#00FF00'
     Icon-Class: fa fa-whatsapp
   
@@ -49,15 +49,7 @@ links:
     Color: '#ff0000'
     Icon-Class: fab fa-youtube
 
-    # EMAIL
-  - Name: Email
-    URL: 'mailto:harshtrivedi@duck.com'
-    Icon-Class: fas fa-envelope
-    Color: '#e17055'
-    Text_Color: '#ffffff'
-
-
-
+  
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'Yes'
 
