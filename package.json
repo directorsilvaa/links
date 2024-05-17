@@ -4,8 +4,9 @@
   "description": "A Beautiful Jekyll Theme For Links",
   "main": "postcss.config.js",
   "dependencies": {
-    "tailwindcss": "^2.2.4",
-    "jekyll": "^3.0.0-beta1"
+    "@vercel/analytics": "^1.2.2",
+    "jekyll": "^3.0.0-beta1",
+    "tailwindcss": "^2.2.4"
   },
   "devDependencies": {
     "jekyll": "^3.0.0-beta1",
