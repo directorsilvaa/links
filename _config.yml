@@ -23,7 +23,7 @@ links:
 
      # TWITTER
   - Name: João Durval
-    URL: https://wa.me/557536167104?text=Ol%C3%A1%2C+Vim+atrav%C3%A9s+do+site.+Poderia+me+ajudar%3F
+    URL: https://api.whatsapp.com/send/?phone=557536167104&text=Ol%C3%A1%20,Vim%20pelo%20site!&type=phone_number&app_absent=0
     Username: 
     Color: '#00FF00'
     Icon-Class: fa fa-whatsapp
@@ -37,7 +37,7 @@ links:
 
     # TWITTER
   - Name: SIM 
-    URL: https://wa.me/message/IME2SXQQTUKHM1
+    URL: https://api.whatsapp.com/send/?phone=557530229951&text=Ol%C3%A1%2C+Vim%20pelo%20site!&type=phone_number&app_absent=0
     Username: 
     Color: '#00FF00'
     Icon-Class: fa fa-whatsapp
