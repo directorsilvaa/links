@@ -37,7 +37,7 @@ links:
 
     # TWITTER
   - Name: FEIRA X
-    URL: https://api.whatsapp.com/send/?phone=557530229951&text=Ol%C3%A1,%20Vim%20atrav%C3%A9s%20do%20site.%20Poderia%20me%20ajudar?&type=phone_number&app_absent=0
+    URL: https://api.whatsapp.com/send/?phone=557536167104&text=Ol%C3%A1,%20Vim%20atrav%C3%A9s%20do%20site.%20Poderia%20me%20ajudar?&type=phone_number&app_absent=0
     Username: 
     Color: '#00FF00'
     Icon-Class: fa fa-whatsapp
